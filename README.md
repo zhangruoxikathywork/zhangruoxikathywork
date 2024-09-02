@@ -5,10 +5,11 @@
 - ⚡ Fun fact: I am a bird singing trainer.
 - ✨ University of Chicago, M.P.P., Finance & Data Analytics
 - ✨ Brandeis University, B.A., Economics & Business
+- 👀 Personal Professional Website/Portfolio: https://dot-cello-32b.notion.site/Kathy-s-Professional-Portfolio-4186c26eb0754754840ef5fa4d91199e?pvs=4
 
-Hi visitors! I'm Kathy, a motivated and data-driven woman currently pursuing a Master’s degree in Public Policy (STEM) with Finance and Data specializations at the University of Chicago. I completed my undergraduate studies at Brandeis University, majoring in Economics (STEM) & Business, with a minor in Education Studies in May 2022.
+Hi visitors! I'm Kathy, a motivated and data-driven woman in finance, with a Master’s degree with Finance and Data specializations at the University of Chicago. and a B.A. in Economics & Business, with a minor in Education Studies from Brandeis University.
 
-As someone passionate about Finance and Data Analytics, I thrive on using quantitative models to tackle challenges in the finance industry and enjoy crafting compelling visualizations to tell a story. My background includes valuable experiences in Financial Industry Consulting, Fixed Income Modeling, Private Equity, FinTech, Portfolio Management, and Equity Research. I am proficient in Python, R, C++, SQL, STATA, TABLEAU, Excel, and Powerpoint, with professional interactions with Mathematica and Fortran.
+As someone passionate about Finance and Data Analytics, I thrive on using quantitative models to tackle challenges in the finance industry and enjoy crafting compelling visualizations to tell a story. My background includes valuable experiences in Financial Industry Consulting, Fixed Income Modeling, Private Equity, FinTech, Portfolio Management, and Equity Research. I am proficient in Python, R, C++, SQL, STATA, TABLEAU, Power BI, Excel, and PowerPoint, with professional interactions with Mathematica and Fortran.
 
 Beyond my professional interests, I'm an enthusiastic singer, a lover of bullet journals and makeup, and occasionally indulge in video games. Caring, responsible, and a natural leader, I actively seek opportunities to help others and make a positive impact.
 
