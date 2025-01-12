@@ -2,7 +2,7 @@
 - 👀 I'm working in quant finance consulting at Oliver Wyman and quant finance research at UChicago.
 - 📫 How to reach me: zhangruoxikathy@icloud.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a bird singing trainer.
+- ⚡ Fun fact: Been a singer and a soprano all my life in choir, a cappella, band and musicals.
 - ✨ University of Chicago, M.P.P., Finance & Data Analytics
 - ✨ Brandeis University, B.A., Economics & Business
 - 👀 Personal Professional Website/Portfolio: https://dot-cello-32b.notion.site/Kathy-s-Professional-Portfolio-4186c26eb0754754840ef5fa4d91199e?pvs=4
